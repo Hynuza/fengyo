@@ -12,44 +12,44 @@ vocabulary: essay-zh-hans
 ...
 
 #词汇
-太阳	tai yo
-向阳	xyo yo
-月亮	yueq lyo
-星宿	si xiu
-走星	zou si
-旋风	xy feng
-刮风	guaq feng
-穿心风	chu xin feng
-吼雷	hou luei
-打闪	da xi
-下雪	ha xyeq
-入伏	rueq feq
-旱地	xi dii
-头道川	tou dao chu
-二道川	er dao chu
-三道川	san dao chu
-峪道河	yueq dao xi
-河滩	xi tan
-凉水	lio shuei
-恶水	ngeq shuei
-吸铁石	xieq tieq sheq
-洋灰	yo huei
-城里	cheng lei
-村里	chung lei
-合里	heq lei
-春期	chung ci
-夏天	ha ti
-寒食	xi sheq
-正月	zheng yueq
-前年	qi ni
-后年	hou ni
-第明	dii mii
+太阳
+向阳
+月亮
+星宿
+走星
+旋风
+刮风
+穿心风
+吼雷
+打闪
+下雪
+入伏
+旱地
+头道川
+二道川
+三道川
+峪道河
+河滩
+凉水
+恶水
+吸铁石
+洋灰
+城里
+村里
+合里
+春期
+夏天
+寒食
+正月
+前年
+后年
+第明
 前日	qier
-前日	qi req
+前日
 后日	hr
-后日	hou req
-后天	hou ti
-外后天	wei hou ti
+后日
+后天
+外后天
 汾阳
 孝义
 介休
@@ -79,66 +79,73 @@ vocabulary: essay-zh-hans
 陕西
 翁口戳墼
 眼睫毛
-我是	ngi si
-汾阳家	feng yo jia
-我是汾阳家	ngi si feng yo jia
-做甚	zhueq sheng
-俺家	ngeng jia
-擀面	gi mi
-和面	hu mi
-剔羹	tieq jia
-抿羹儿	min jia er
-擦羹儿	caq jia er
-拌羹	bu jia
-扯羹	qi jia
-面羹羹	mi jia jia
-圪团团	geq tu tu
-圪团儿	geq tu er
-削面	xyeq mi
-面𡋯	mi peq
-碗脱	wu tueq
+我是
+汾阳家
+我是汾阳家
+做甚
+俺家
+擀面
+和面
+剔羹
+抿羹儿	min jiar
+抿羹儿
+擦羹儿	caq jiar
+擦羹儿
+拌羹
+扯羹
+面羹羹
+羹羹
+圪团团
+圪团儿	geq tur
+圪团儿
+削面
+面𡋯
+碗脱
+碗脱儿
 碗脱儿	wu tuer
-莜面	you mi
-荞面	qiw mi
-麦子	miaq zeq
+莜面
+荞面
+麦子
 谷儿	guer
-棉花	mi hua
-辣角角	laq jiaq jiaq
-角角	jiaq jiaq
-藕根	ngou geng
+棉花
+辣角角
+角角
+藕根
 芫荽	yy syy
-玉蔓菁	yy mu zi
+玉蔓菁
 玉蔓菁	reu mu zi
 
 将来	za lei
-砍住	ki zheu
-打点	da di
-做甚	zhueq sheng
-早办	zao ban
-道讗	dao xiaq
-能能	neng neng
+砍住
+打点
+做甚
+早办
+道讗
+能能
 上头	huo tou
-下头	ha tou
+下头
 后晌	hou huo
 前晌	qi huo
 晌午	shao wu
 
-揩抹	qiai maq
-老婆	lao pu
-老汉	lao xi
-女子	nreu zeq
+揩抹
+老婆
+老汉
+女子
 厮儿	ser
+厮儿
 城里家	cheng lia
-村里加	chung lia
+村里家	chung lia
 客人	qiar
-爷爷	yi yi
-娘娘	nyo nyo
+客人
+爷爷
+娘娘
 毑爷	jian yi
 婆婆	bu bu
 爹爹	da da
-伯伯	biaq biaq
-妗妗	jin jin
-老老	lao lao
+伯伯
+妗妗
+老老
 外甥子	wei sha zeq
 双生生	chuo sha sha
 眉眼	mii nian
@@ -244,19 +251,85 @@ vocabulary: essay-zh-hans
 一块	ya
 提溜	diou
 
-梨儿	lr
+多儿	dr
+豆儿	dr
+水痘儿	shuei dr
+蝌蚪儿	geq dr
 头儿	tr
+线头儿	xi tr
+抽屉儿	chou tr
+楼儿	lr
+冬凌儿	dung lr
+灯笼儿	deng lr
+香炉儿	xyo lr
+梨儿	lr
+镜儿	zir
+鸡儿	zir
+井儿	zir
+吱儿	zir
+菜籽儿	cei zir
+子儿	zir
+字儿	zir
+剂儿	zir
+走之儿	zou zir
+词儿	cir
+错儿	cir
+簸箕儿	bu cir
+丝儿	sir
+星儿	sir
+四儿	sir
+姨儿	iir
+燕儿	iir
+毡儿	zhr
+车儿	chr
+耍家什儿	shua jia shr
+
+
 歌儿	gr
+羔儿	gr
+狗儿	gr
+口儿	kr
+蛾儿	ngr
+鏊儿	ngr
+硪儿	ngr
+猴儿	hr
+候儿	hr
+
+箅儿	bir
+皮儿	pir
+瓢儿	pir
+票儿	pir
+苗儿	mir
+面儿	mir
+藋儿	tir
+条儿	tir
+挑儿	tir
+贴儿	tir
+榴儿	lir
+蒺藜儿	zaq lir
+六儿	lir
+丢翎儿	diou lir
+件儿	jir
+锨儿	qir
+雀儿	qir
+毽儿	qir
+牛儿	nir
+年儿	nir
+扇儿	xir
+窑儿	yir
+沿儿	yir
+
+
+
 房儿	fer
 房儿	fuer
 碨儿	wer
 锄儿	cheur
 树儿	sheur
-镜儿	zir
+
 帽儿	muer
 裤儿	keur
 袄儿	nguer
-扇儿	xir
 谷儿	guer
 葱儿	chuer
 杏儿	xiar
@@ -265,10 +338,11 @@ vocabulary: essay-zh-hans
 枣儿	zhuer
 猫儿	muer
 猪儿	zheur
-狗儿	gr
+
 驴儿	leur
 马儿	mar
-鸡儿	zir
+
+
 黄儿	huer
 头儿	tr
 
@@ -1526,6 +1600,9 @@ vocabulary: essay-zh-hans
 酱钵钵
 咸盐钵钵
 盅盅
+一盅
+两盅
+三盅
 茶叶罐子
 盘子
 捞饺儿盘子
@@ -2538,6 +2615,8 @@ vocabulary: essay-zh-hans
 冰糖
 甜甜
 饧瓜儿
+饧瓜
+饧油
 灌馅儿糖
 料
 调和
@@ -3131,7 +3210,7 @@ vocabulary: essay-zh-hans
 装车
 摩托
 街
-路儿
+路儿	lr
 大路儿
 小路儿
 土路儿
@@ -5408,23 +5487,23 @@ vocabulary: essay-zh-hans
 葫芦肚
 圪垛园	geq tu yu
 三官巷	sa gu huo
-养济巷	yo zi huo
+养济巷
 百户营
 城关镇
 冯家庄	feng la zhuo
-洪南社	hung nan xi
+洪南社
 贾家庄	jia a zhuo
 贾家庄	jia zhuo
 西陈家庄
 北廓	beq geq
 米家庄
 古浮图	heq fu tou
-太平	tai pii
+太平
 董寺
-金井	jin zi
+金井
 新丰
 故贤
-官道	gu dao
+官道
 杏花村
 冯郝沟
 安上
@@ -5439,8 +5518,8 @@ vocabulary: essay-zh-hans
 城子	shi zeq
 唐兴庄
 古贤
-东河头	dung xi tou
-蛤蟆窝	geq ma wu
+东河头
+蛤蟆窝
 东遥庄
 东陈家庄
 菩提庄
@@ -5452,14 +5531,16 @@ vocabulary: essay-zh-hans
 安头
 康宁堡
 肖家庄	xyo zhuo
+肖家庄
 青堆	ci tei
 高家庄
 孙家庄
 唐家堡
 雷家堡	luai beu
+雷家堡
 宣柴堡
-义安	ii ngi
-潴城	zheu shi
+义安
+潴城
 何家庄	xi a zhuo
 望春
 演武	yi vu
@@ -5476,19 +5557,20 @@ vocabulary: essay-zh-hans
 小虢城	xiw gua shi
 乔家庄
 赵家庄
+碱场
 建昌	jian chuo
 昌宁宫	xyo nzi gung
 西路家庄
 见喜村
 董和村
 董家庄
-干河	gi xi
+干河
 史家堡
 普会	beu hui
 申家堡
 东路家庄
 三泉镇
-三泉	san qy
+三泉
 赵家堡
 任家堡
 李家街
@@ -5499,7 +5581,7 @@ vocabulary: essay-zh-hans
 段家庄
 巩村
 龙观	lw gu
-义丰村	nzi vu
+义丰	nzi vu
 平陆	pii liu
 北榆苑	beq reu yu
 员庄	yung zhuo
@@ -5547,7 +5629,7 @@ vocabulary: essay-zh-hans
 灵符泉	lw fu qy
 康家山
 舍窠	xi ku
-王家池	ua shi
+王家池	wa shi
 栗家庄乡
 栗家庄
 万户头
@@ -5562,7 +5644,7 @@ vocabulary: essay-zh-hans
 河北
 卢家庄
 桑枣坡	shuo zeq pu
-杏湾	xia wan
+杏湾
 上林舍
 安家庄
 张家堡
@@ -5581,8 +5663,8 @@ vocabulary: essay-zh-hans
 何家垣
 相子垣
 姜垣
-峪道河	yueq dao xi
-肃静村	xieq zi chung
+峪道河
+肃静	xieq zi
 圪垛	geq tu
 堡城寺
 宏寺
@@ -5600,4 +5682,7 @@ vocabulary: essay-zh-hans
 蔚家沟
 唐垣
 拐岭底
-聂生	nieq sheng
+聂生
+
+合家具
+鸿鹄

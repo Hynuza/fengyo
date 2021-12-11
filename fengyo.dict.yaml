@@ -1364,6 +1364,7 @@ import_tables:
 商	shuo
 尚	shuo
 伤	shuo
+绱	shuo
 赏	shuo
 爽	shuo
 裳	shuo
@@ -1770,6 +1771,7 @@ import_tables:
 悔	huei
 秽	huei
 溃	huei
+㱮	huei
 讳	huei
 晦	huei
 麾	huei
@@ -2247,6 +2249,7 @@ import_tables:
 六	liou
 留	liou
 柳	liou
+陆	liou
 瘤	liou
 硫	liou
 溜	liou
@@ -2368,6 +2371,7 @@ import_tables:
 互	fu
 妇	fu
 乎	fu
+哹	fu
 呼	fu
 扶	fu
 胡	fu
@@ -2618,6 +2622,7 @@ import_tables:
 单	dan
 石	dan
 担	dan
+觇	dan
 丹	dan
 胆	dan
 旦	dan
@@ -3283,6 +3288,7 @@ import_tables:
 兵	bin
 宾	bin
 冰	bin
+甭	bin
 滨	bin
 饼	bin
 彬	bin
@@ -3419,6 +3425,7 @@ import_tables:
 烬	jin
 妗	jin
 衿	jin
+紟	jin
 情	qin
 青	qin
 清	qin
@@ -3594,6 +3601,7 @@ import_tables:
 衷	zhung
 肿	zhung
 棕	zhung
+衠	zhung
 冢	zhung
 鬃	zhung
 盅	zhung
@@ -3850,6 +3858,7 @@ import_tables:
 扎	zaq
 宅	zaq
 炸	zaq
+煠	zaq
 侧	zaq
 摘	zaq
 咱	zaq
@@ -3909,6 +3918,7 @@ import_tables:
 伯	biaq
 柏	biaq
 掰	biaq
+擘	biaq
 帛	biaq
 褙	biaq
 拍	piaq
@@ -4016,6 +4026,7 @@ import_tables:
 没	meq
 木	meq
 么	meq
+殁	meq
 莫	meq
 穆	meq
 摸	meq
@@ -4409,6 +4420,7 @@ import_tables:
 猝	chueq
 绌	chueq
 蹙	chueq
+𥼀	chueq
 说	shueq
 术	shueq
 属	shueq
@@ -4441,6 +4453,7 @@ import_tables:
 惑	hueq
 霍	hueq
 糊	hueq
+鹄	hueq
 豁	hueq
 惚	hueq
 藿	hueq
