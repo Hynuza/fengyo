@@ -88,3 +88,18 @@
 | en   | 你en                       | 用于输入「你」字                                        |
 | er   | 儿er 而er 耳er 二er           |                                                 |
 
+| 儿化韵符号 13 个 | 例字                        | 备注                                              |
+| ---- | ------------------------- | ----------------------------------------------- |
+| r    | 多儿dr 头儿tr 楼儿lr 歌儿gr 口儿kr 蛾儿ngr 猴儿hr 镜儿zr 错儿cr 丝儿sr| 零声母例：姨儿iir 燕儿iir |
+| ir   | 箅儿bir 皮儿pir 苗儿mir 条儿tir 藜儿lir 件儿jir 雀儿qir 牛儿nir 扇儿xir | 零声母例：窑儿yir 沿儿yir|
+| er   | 本儿ber 盆儿per 门儿mer 蜂儿fer 文儿ver 袋儿der 台儿ter 那儿ner 棱儿ler 厮儿ser 汁儿zher 秤儿cher 婶儿sher 人儿rer 个人ger 壳儿ker 俺儿nger 孩儿her| |
+| ier  | 饼儿bier 瓶儿pier 名儿mier 蝶儿dier 巾儿jier 钱儿qier 芯儿xier| 零声母例：影儿yer 叶儿yer 印儿yer|
+| uer  | 泡儿puer 猫儿muer 房儿fuer 刀儿duer 桃儿tuer 脑儿nuer 佬儿luer 枣儿zuer 葱儿cuer 粥儿zhuer 场儿chuer 水儿shuer 谷儿guer 款款儿kuer 袄儿nguer 黄儿huer | 零声母例：五儿wer 硙儿wer 瓮儿wer|
+| yer  | 梁儿lyer 轿儿jyer 悄儿qyer 鸟儿nyer 相儿xyer|零声母例：羊儿yuer 月儿yuer 样儿yuer|
+| ar   | 班儿bar 牌儿par 慢慢儿mar 法儿far 蛋儿dar 坛儿tar 篮儿lar 蚕儿car 三儿sar 蝉儿char 生日shar 干儿gar 坎儿kar 匣儿har| |
+| iar  | 白日biar 片儿piar 点儿diar 天儿tiar 链儿liar 间儿jiar 客人qiar 杏儿xiar | 零声母例：艳儿yar|
+| uar  | 段儿duar 乱儿luar 桌儿zhuar 刷儿shuar 瓜儿guar 花儿huar | 零声母例：弯儿war 娃儿war 瓦儿war|
+| yar  | 卷儿jyar 券儿qyar |零声母例：园儿yuar 员儿yuar|
+| ur   | 布儿bur 铺儿pur 膜儿mur 壶儿fur 团儿tur 嘴儿zur 锁儿sur 椽儿chur 锅儿gur 火儿hur |零声母例：窝儿wur 碗儿wur|
+| eur  | 肚儿deur 兔儿teur 驴儿leur 锯儿zeur 蛆儿ceur 女儿nreur 猪儿zheur 锄儿cheur 树儿sheur 姑儿geur 裤儿keur| 特殊情况：鱼儿yyeur|
+| yr   | 圈儿jyr 旋儿xyr ||
