@@ -28,7 +28,7 @@
 | t    | 体tii 团tu 疼teng 突tueq      |                                                 |
 | n    | 年ni 南nan 那neq 纳naq        |                                                 |
 | l    | 例lii 脸li 料liw 绿lueq       |                                                 |
-| j    | 卷ju 尖ji 晋jin 角jiaq        |                                                 |
+| j    | 卷jy 尖ji 晋jin 角jiaq        |                                                 |
 | q    | 前qi 全qu 潜qian 缺qyeq       |                                                 |
 | x    | 显xi 揎xu 新xin 学xiaq        |                                                 |
 | z    | 字zi 赞zan 怎zeng 杂zaq       |                                                 |
@@ -52,7 +52,7 @@
 | i    | 脸li 念ni 点di 偏pi           | 零声母时输入 yi，如 烟yi 盐yi                             |
 | yy   | 吕lyy 泪lyy 于yy 与yy         | 在 z c s nz 后只需输入一个 y，如 句zy 区cy 需sy 女ny          |
 | u    | 段du 官gu 满mu 团tu           | 零声母时输入 wu，如 完wu 窝wu                             |
-| y    | 卷jy 全qy 揎xy 圙ly           | 零声母时输入 yu，如 圆yu 远yu                             |
+| y    | 卷jy 全qy 揎xy 圙ly           | 声母为 jqx 时也可输入 ju qy xu。零声母时输入 yu，如 圆yu 远yu |
 | a    | 打da 他ta 洒sa 拿na           |                                                 |
 | ia   | 家jia 抲qia 虾xia 牙nia       | 零声母时输入 ya，如 亚ya 押ya                             |
 | ua   | 瓜gua 花hua 爪zhua 耍shua     | 零声母时输入 wa，如 挖wa 娃wa                             |
