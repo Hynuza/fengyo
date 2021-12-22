@@ -4016,6 +4016,7 @@ import_tables:
 拨	beq
 薄	beq
 搏	beq
+煿	beq
 鼻	beq
 卜	beq
 膊	beq
@@ -4544,6 +4545,7 @@ import_tables:
 趴	ba
 㞎	ba
 爸	ba
+耙	ba
 葩	pa
 咋	zaq
 楂	za
