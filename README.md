@@ -17,6 +17,8 @@
 
 汾阳话全音节 [国际音标 vs 拼音对照表](https://docs.qq.com/sheet/DS0p1UGNseUtMZmN1) (内含拼音方案详述、音系、儿化韵等)
 
+另可下载 [汉字音典](https://www.coolapk.com/apk/com.osfans.mcpdict)查询汾阳话字音。
+
 ## 汾阳话拼音方案说明
 
 | 声母符号 25 个 | 例字                        | 备注                                              |
