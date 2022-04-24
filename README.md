@@ -13,9 +13,9 @@
 
 汾阳话音系参见：[维基百科汾阳话](https://zh.wikipedia.org/wiki/%E6%B1%BE%E9%98%B3%E8%AF%9D)
 
-汾阳话相关教程参见：[汾阳方言语音教程](http://mp.weixin.qq.com/mp/homepage?__biz=MzI4OTQ3MjY0MA==&hid=3&sn=ac71b29aa34dc508019bfef9da3cd92a&scene=18#wechat_redirect)
-
 汾阳话全音节 [国际音标 vs 拼音对照表](https://docs.qq.com/sheet/DS0p1UGNseUtMZmN1) (内含拼音方案详述、音系、儿化韵等)
+
+汾阳话相关教程参见：[汾阳方言语音教程](http://mp.weixin.qq.com/mp/homepage?__biz=MzI4OTQ3MjY0MA==&hid=3&sn=ac71b29aa34dc508019bfef9da3cd92a&scene=18#wechat_redirect)
 
 另可下载 [汉字音典](https://www.coolapk.com/apk/com.osfans.mcpdict) 查询汾阳话字音。
 
