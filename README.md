@@ -2,7 +2,7 @@
 
 该输入法方案基于[中州韵输入法引擎](https://rime.im/)。
 
-输入法字表依 1963 年赵骏程著《汾阳话与普通话》及 2018 年李卫锋著《汾阳方言研究》同音字表增补而成。
+输入法字表基于 1963 年赵骏程著《汾阳话与普通话》及 2018 年李卫锋著《汾阳方言研究》同音字表。[Hynuza](https://www.zhihu.com/people/hynuza) 增补。
 
 拼音方案由 [Hynuza](https://www.zhihu.com/people/hynuza) 设计。
 
