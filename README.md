@@ -54,7 +54,7 @@
 | ---- | ------------------------- | ----------------------------------------------- |
 | ii   | 地dii 替tii 泥nzi 意ii        | 字词四不需要写 zii cii sii，写 zi ci si 即可               |
 | i    | 脸li 念ni 点di 偏pi           | 零声母时输入 yi，如 烟yi 盐yi                             |
-| yy   | 吕lyy 泪lyy 于yy 与yy         | 在 z c s nz 后只需输入一个 y，如 句zy 区cy 需sy 女ny          |
+| yy   | 吕lyy 泪lyy 于yy 与yy         | 在 z c s nz 后只需输入一个 y，如 句zy 区cy 需sy 女nzy          |
 | u    | 段du 官gu 满mu 团tu           | 零声母时输入 wu，如 完wu 窝wu                             |
 | y    | 卷jy 全qy 揎xy 圙ly           | 声母为 jqx 时也可输入 ju qy xu。零声母时输入 yu，如 圆yu 远yu |
 | a    | 打da 他ta 洒sa 拿na           |                                                 |
