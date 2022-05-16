@@ -113,7 +113,7 @@ translator:
     - xlit/12345678/¹²³⁴⁵⁶⁷⁸/
 
 reverse_lookup:
-  dictionary: luna_pinyin
+  dictionary: pinyin_simp
   prefix: "`"
   suffix: "'"
   tips: 〔输入汉语拼音反查汾阳话拼音〕
