@@ -5,7 +5,7 @@
 
 ---
 name: fengyo
-version: "2022.04.24"
+version: "2022.05.16"
 sort: by_weight
 vocabulary: essay-zh-hans
 # use_preset_vocabulary: true
@@ -1209,6 +1209,7 @@ import_tables:
 腔	qyo
 呛	qyo
 戗	qyo
+框	qyo
 向	xyo
 项	xyo
 相	xyo
@@ -3077,6 +3078,7 @@ import_tables:
 猿	yuan
 本	beng
 奔	beng
+颁	beng
 泵	beng
 崩	beng
 磅	beng
@@ -4500,6 +4502,7 @@ import_tables:
 忤	weq
 杌	weq
 捼	weq
+捾	weq
 略	lyeq
 掠	lyeq
 捋	lyeq
@@ -4551,6 +4554,7 @@ import_tables:
 戌	xyeq
 蓿	xyeq
 踅	xyeq
+旭	xyeq
 月	yueq
 峪	yueq
 越	yueq

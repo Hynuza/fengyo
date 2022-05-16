@@ -5,7 +5,7 @@
 
 ---
 name: fengyo_word
-version: "2021.11.24"
+version: "2022.05.16"
 sort: by_weight
 vocabulary: essay-zh-hans
 # use_preset_vocabulary: true
@@ -6071,3 +6071,7 @@ vocabulary: essay-zh-hans
 杀人
 煞人
 六味地黄丸
+门框
+捾地
+颁头
+颁头儿
