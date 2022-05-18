@@ -5,13 +5,14 @@
 
 ---
 name: fengyo
-version: "2022.05.16"
+version: "2022.05.18"
 sort: by_weight
 vocabulary: essay-zh-hans
 # use_preset_vocabulary: true
 import_tables:
 - fengyo_word
 ...
+
 比	bii
 被	bii
 备	bii
@@ -2583,6 +2584,7 @@ import_tables:
 鸪	geu
 牯	geu
 蛊	geu
+䀇	geu
 诂	geu
 苦	keu
 库	keu
@@ -3870,6 +3872,7 @@ import_tables:
 喇	laq
 肋	laq
 邋	laq
+擸	laq
 蝲	laq
 笿	laq
 勒	laq

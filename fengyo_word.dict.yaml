@@ -5,7 +5,7 @@
 
 ---
 name: fengyo_word
-version: "2022.05.16"
+version: "2022.05.18"
 sort: by_weight
 vocabulary: essay-zh-hans
 # use_preset_vocabulary: true
@@ -277,6 +277,8 @@ vocabulary: essay-zh-hans
 词儿	cr
 错儿	cr
 簸箕儿	bu cr
+抽儿	cr
+抽儿
 丝儿	sr
 星儿	sr
 四儿	sr
